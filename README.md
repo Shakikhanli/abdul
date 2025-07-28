@@ -1,2 +1,4 @@
 # abdul
-Turing akademiyada keçiriləcək dərslər üçün
+
+
+## Turing akademiyada keçiriləcək dərslər üçün
